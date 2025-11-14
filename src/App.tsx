@@ -7,6 +7,9 @@ function App() {
       <Typography variant='h1'>
         Cody Trawick
       </Typography>
+      <Typography variant='subtitle1'>
+        Software Engineer
+      </Typography>
     </Container>
   )
 }
